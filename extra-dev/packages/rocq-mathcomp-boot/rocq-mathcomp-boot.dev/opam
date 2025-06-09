@@ -48,5 +48,5 @@ and prime numbers, big operators
 """
 
 url {
-  src: "git+https://github.com/math-comp/math-comp.git#master"
+  src: "git+https://github.com/gares/math-comp.git#ssrpat-FO-ignore-imparg"
 }
