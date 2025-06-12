@@ -24,5 +24,5 @@ Theorem (aka Feit Thompson Theorem).
 The file stripped_odd_order_theorem.v contains a proof of a self
 contained statement of the odd order."""
 url {
-  src: "git+https://github.com/math-comp/odd-order.git"
+  src: "git+https://github.com/math-comp/odd-order.git#ssrpat-FO-ignore-imparg"
 }
